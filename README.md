@@ -5,4 +5,4 @@ Repositorio para practicas
 ![This is an image](./ER.png)
 
 ### Flujo nivel
-[Intro.pdf](./WF_practicas.pdf)
+[Flujo de nivel](./WF_practicas.pdf)
