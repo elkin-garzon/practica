@@ -5,7 +5,7 @@ Repositorio para practicas
 ![This is an image](./ER.png)
 
 # Script sql
-![This is an image](./dbpracticas.sql)
+[sql](./dbpracticas.sql)
 
 # Flujo nivel
 [Flujo de nivel](./WF_practicas.pdf)
