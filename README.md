@@ -5,4 +5,4 @@ Repositorio para practicas
 ![This is an image](./ER.png)
 
 ### Flujo nivel
-![This is an image](./WF_practicas.pdf)
+[embed]https://github.com/elkin-garzon/practica/blob/master/WF_practicas.pdf[/embed]
