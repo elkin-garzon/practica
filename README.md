@@ -7,5 +7,5 @@ Repositorio para practicas
 # Script sql
 [sql](./dbpracticas.sql)
 
-# Flujo nivel
+# Flujos
 [Flujo de nivel](./WF_practicas.pdf)
