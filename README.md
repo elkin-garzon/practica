@@ -10,3 +10,7 @@ Repositorio para practicas
 
 # Flujos
 [Flujo de nivel](./WF_practicas.pdf)
+
+# Flujo de aspirantes
+[Flujo de nivel](./WF_practicas_usuario.pdf)
+
