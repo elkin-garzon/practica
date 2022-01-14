@@ -252,6 +252,7 @@ CREATE TABLE `test` (
   `id` bigint(20) NOT NULL AUTO_INCREMENT,
   `name` varchar(255) NOT NULL,
   `acceptance` bigint(2) NOT NULL,
+  `questions_amount` bigint(2) NOT NULL,
   `id_level` bigint(20) NOT NULL,
   `estado` tinyint(1) NOT NULL DEFAULT '1',
   `created_at` datetime DEFAULT CURRENT_TIMESTAMP,
@@ -284,4 +285,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2022-01-05 20:28:34
+-- Dump completed on 2022-01-13 20:21:39
